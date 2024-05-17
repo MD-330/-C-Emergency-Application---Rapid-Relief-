@@ -1,0 +1,10 @@
+authentication link
+https://console.firebase.google.com/u/3/project/emergencyapp-41b4c/authentication/users
+
+
+firestore database link
+https://console.firebase.google.com/u/3/project/emergencyapp-41b4c/firestore/data/~2Fusers~2Fw8goU6kfhPeSH17agQku8TiNkd93
+
+
+storage link
+https://console.firebase.google.com/u/3/project/emergencyapp-41b4c/storage/emergencyapp-41b4c.appspot.com/files

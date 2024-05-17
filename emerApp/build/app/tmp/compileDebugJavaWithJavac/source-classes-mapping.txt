@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/emergency/myapp/BuildConfig.java
+ com.emergency.myapp.BuildConfig
+com/savior_mobile/myapp/MainActivity.java
+ com.emergency.myapp.MainActivity

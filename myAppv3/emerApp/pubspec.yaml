@@ -1,0 +1,89 @@
+name: Emergency
+description: A new Flutter application.
+version: 1.0.0+1
+environment:
+  sdk: ">=2.14.4 <3.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  intl: ^0.17.0
+  path_provider: ^2.0.2
+  cached_network_image: ^3.0.0
+#  firebase_auth:
+  firebase_auth: ^3.3.8
+  cloud_firestore: ^2.0.0
+  provider: ^6.0.2
+  group_radio_button:
+  firebase_storage: ^10.2.8
+  firebase_core: ^1.19.1
+  line_icons: ^2.0.1
+#  modal_progress_hud: ^0.2.0
+  flutter_progress_hud: ^2.0.2
+  another_flushbar:
+  incrementally_loading_listview:
+  carousel_slider: ^4.1.1
+  get_it: ^7.2.0
+  http:
+  glassmorphism:
+  email_validator: ^2.1.2
+  json_annotation:
+  timeago: ^3.2.2
+  image_picker: ^0.8.4+1
+  google_maps_flutter:
+  flutter_svg: ^1.0.3
+  geocode:
+  geocoding:
+  geolocator: ^9.0.1
+  permission_handler:
+  shared_preferences: ^2.0.13
+  flutter_spinkit: ^5.1.0
+  google_fonts:
+#  page_transition:
+  flutter_polygon:
+  flutter_polyline_points:
+  dio:
+
+
+
+
+
+
+
+dependency_overrides:
+  #  intl: ^0.17.0-nullsafety.2
+  intl: ^0.17.0
+  path_provider: ^2.0.0-nullsafety.1
+  firebase_core_platform_interface: 4.5.1
+#  permission_handler: ^8.2.5
+#  geocoding: ^2.0.1
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  build_runner: ^1.0.0
+  json_serializable: ^6.0.0
+  change_app_package_name:
+
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
+    - assets/Images/
+    - assets/icons/
+    - assets/lang/
+    - assets/cate/
+    - assets/subCate/
+  fonts:
+    - family: JosefinSans
+      fonts:
+        - asset: fonts/JosefinSans-Regular.ttf
+        - asset: fonts/JosefinSans-SemiBold.ttf
+          weight: 600
+        - asset: fonts/JosefinSans-Bold.ttf
+          weight: 700

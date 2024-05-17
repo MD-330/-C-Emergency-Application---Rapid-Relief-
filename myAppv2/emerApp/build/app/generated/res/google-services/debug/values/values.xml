@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">345801978875</string>
+    <string name="google_api_key" translatable="false">AIzaSyC-U-fcsSF4KFoOK3HiaE5WEILABCtoekU</string>
+    <string name="google_app_id" translatable="false">1:345801978875:android:5774e739085fdb1969515e</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC-U-fcsSF4KFoOK3HiaE5WEILABCtoekU</string>
+    <string name="google_storage_bucket" translatable="false">emergencyapp-41b4c.appspot.com</string>
+    <string name="project_id" translatable="false">emergencyapp-41b4c</string>
+</resources>
